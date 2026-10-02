@@ -4,7 +4,7 @@
 Welcome to my academic portfolio for [Cep146]!
 
 ## About Me
-- Name: Lore4nzo Stephenson
+- Name: Lorenzo Stephenson
 - Major: Computer programming cyp
 - Year: 2026
 - Favorite Programming Language: C
